@@ -1,7 +1,7 @@
- # Hi there, I'm Shubham Puri 👋
+# Hi there, I'm Shubham Puri 👋
 ### 🚀 Entry-Level Java Developer | Spring Boot Enthusiast | Angular Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=shubhamp13&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 I'm an **Entry-Level Java Developer** with a passion for building **scalable web applications** using Java and modern frameworks like **Spring Boot** and **Angular**. I enjoy solving complex problems with clean, maintainable code.
 
@@ -23,8 +23,8 @@ I'm an **Entry-Level Java Developer** with a passion for building **scalable web
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Shubham's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamp13&show_icons=true&theme=radical" alt="Shubham's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp13&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -33,11 +33,11 @@ I'm an **Entry-Level Java Developer** with a passion for building **scalable web
 #### 1. **Student Registration System (Spring MVC)**
    - **Technologies:** Spring MVC, Hibernate, MySQL, JavaScript
    - **Features:** Student registration, validation with JavaScript, database interaction using Hibernate
-   - **GitHub Link:** [Student Registration System](https://github.com/yourusername/student-registration-system)
+   - **GitHub Link:** [Student Registration System](https://github.com/shubhamp13/student-registration-system)
 
 #### 2. **Spring Boot Microservices Example**
    - **Technologies:** Spring Boot, Microservices, REST APIs, MySQL
-   - **GitHub Link:** [Spring Boot Microservices](https://github.com/yourusername/spring-boot-microservices)
+   - **GitHub Link:** [Spring Boot Microservices](https://github.com/shubhamp13/spring-boot-microservices)
 
 ---
 
@@ -56,3 +56,9 @@ I'm an **Entry-Level Java Developer** with a passion for building **scalable web
 
 ### ⚡ Passion:
 I am passionate about leveraging **Spring Boot** and **Angular** to build dynamic, efficient, and scalable web applications. Currently exploring the world of **Microservices** and **Cloud Computing** to enhance my backend skills.
+
+### 📞 Contact:
+- **Phone:** 8793569631
+- **Email:** shubhampuri8297@gmail.com
+- **GitHub:** [github.com/shubhamp13](https://github.com/shubhamp13)
+- **LinkedIn:** [linkedin.com/in/shubham-puri-361175242](https://www.linkedin.com/in/shubham-puri-361175242)
