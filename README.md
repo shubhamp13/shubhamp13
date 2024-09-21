@@ -1,3 +1,4 @@
+
 # Hi there, I'm Shubham Puri 👋
 ### 🚀 Entry-Level Java Developer | Spring Boot Enthusiast | Angular Developer
 
@@ -30,12 +31,45 @@ I'm an **Entry-Level Java Developer** with a passion for building **scalable web
 ---
 
 ### 🔥 Noteworthy Projects:
-#### 1. **Student Registration System (Spring MVC)**
+
+#### 1. **Workforce Management Software (Spring Boot)**
+   - **Technologies:** Spring Boot, Spring Data JPA, RESTful APIs, Hibernate, MySQL
+   - **Features:**
+     - Manage employees, departments, and bank accounts with CRUD operations.
+     - Implemented DTOs, mappers, controllers, and repositories for efficient data flow.
+   - **Key REST Endpoints:**
+    ### Employee Management
+
+| Method | Endpoint                          | Description                         |
+|--------|-----------------------------------|-------------------------------------|
+| POST   | `/employees`                      | Save an employee                   |
+| GET    | `/employees`                      | Get all employees                  |
+| GET    | `/employees/id/{emp-id}`         | Find employee by ID                |
+| GET    | `/employees/name/{emp-name}`     | Find employee by name              |
+| DELETE | `/employees/{emp-id}`            | Delete employee by ID              |
+| PUT    | `/employees/update`               | Update an employee                 |
+| POST   | `/employees-list`                | Save a list of employees           |
+
+### Department Management
+| Method | Endpoint                          | Description                         |
+|--------|-----------------------------------|-------------------------------------|
+| POST   | `/departments`                    | Add a department                    |
+| GET    | `/departments`                    | Get all departments                 |
+
+### Bank Account Management
+| Method | Endpoint                          | Description                         |
+|--------|-----------------------------------|-------------------------------------|
+| POST   | `/accounts`                       | Save a bank account                 |
+| GET    | `/accounts`                       | Get all bank accounts               |
+| POST   | `/accounts-list`                 | Save a list of bank accounts        |
+   - **GitHub Link:** [Workforce Management Software](https://github.com/shubhamp13/Workforce-Management)
+
+#### 2. **Student Registration System (Spring MVC)**
    - **Technologies:** Spring MVC, Hibernate, MySQL, JavaScript
    - **Features:** Student registration, validation with JavaScript, database interaction using Hibernate
    - **GitHub Link:** [Student Registration System](https://github.com/shubhamp13/student-registration-system)
 
-#### 2. **Spring Boot Microservices Example**
+#### 3. **Spring Boot Microservices Example**
    - **Technologies:** Spring Boot, Microservices, REST APIs, MySQL
    - **GitHub Link:** [Spring Boot Microservices](https://github.com/shubhamp13/spring-boot-microservices)
 
